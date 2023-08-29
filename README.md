@@ -25,7 +25,7 @@ The Weather App is a graphical user interface (GUI) application that provides re
 ## Usage
 
 - Run the Weather App:
-       python weather_app.py
+       python weather.py
   
 - Enter the name of the city for which you want to see the weather and press the "Search" button.
 
